@@ -1,0 +1,30 @@
+h4{
+    text-align: center;
+    padding: 10px;
+}
+#quescard{
+    margin:0 auto;
+    text-align: center;
+    background-color:honeydew;
+    color:rgb(198, 10, 10);
+    width: 80%;
+    padding:20px;
+    height: auto;
+}
+button{
+    padding: 10px;
+    background-color: aquamarine;
+    border:3px solid white;
+    border-radius: 3px;
+    margin-top:8px;
+    text-align: center;
+}
+.final-res{
+        margin:0 auto;
+        text-align: center;
+        background-color:aquamarine;
+        color:rgb(246, 8, 28);
+        width: 80%;
+        padding:20px;
+        height: auto;
+}
